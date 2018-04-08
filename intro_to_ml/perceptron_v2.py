@@ -1,3 +1,4 @@
+import numpy as np
 from nnt import *
 
 class Perceptron(NeuralNet):
